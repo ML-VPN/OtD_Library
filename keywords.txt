@@ -1,0 +1,63 @@
+#######################################
+# Syntax Coloring Map OtD_Library
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+OtD_Library	KEYWORD1
+OtomaDUINO	KEYWORD1
+OTOMADUINO	KEYWORD1
+OtD_1	LITERAL1
+
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+getLastResetCause	KEYWORD2
+otd_InitCorePeri	KEYWORD2
+otd_SoftReset	KEYWORD2
+getUptime_ms	KEYWORD2
+otd_UartPrintByte	KEYWORD2
+otd_UartPrint	KEYWORD2
+otd_UartPrintInt	KEYWORD2
+
+otd_UartPrintFloat	KEYWORD2
+otd_UartPrintln	KEYWORD2
+otd_UartRead	KEYWORD2
+otd_UartWrite	KEYWORD2
+
+otd_InitDigitalIO	KEYWORD2
+otd_DigitalRead	KEYWORD2
+otd_DigitalReadAll	KEYWORD2
+otd_DigitalWrite	KEYWORD2
+otd_GetDigitalWriteState	KEYWORD2
+otd_OutputEnable	KEYWORD2	
+otd_OutputDisable	KEYWORD2
+
+otd_InitPulse	KEYWORD2
+otd_SetPulseEnabled	KEYWORD2
+otd_GetPulseEnabled	KEYWORD2
+otd_SetPulseFreqDuty	KEYWORD2
+otd_GetPulseFreqDuty	KEYWORD2
+otd_SetMaxPulseCount	KEYWORD2	
+otd_ResetMaxPulseCount	KEYWORD2
+otd_GetPulseCount	KEYWORD2
+
+otd_InitAnalog	KEYWORD2
+otd_SetAnalogType	KEYWORD2
+otd_GetAnalogType	KEYWORD2
+otd_SetAnalogChannel	KEYWORD2
+otd_GetAnalogChannel	KEYWORD2
+otd_SetAnalogDataRate	KEYWORD2	
+otd_GetAnalogDataRate	KEYWORD2
+otd_SetAnalogGain	KEYWORD2
+otd_GetAnalogGain	KEYWORD2	
+otd_IsAnalogDataReady	KEYWORD2
+otd_AnalogRead	KEYWORD2
+
+	
+#######################################
+# Constants (LITERAL1)
+#######################################
