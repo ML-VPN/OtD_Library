@@ -1,3 +1,21 @@
+/**
+  ******************************************************************************
+  * @file    otd_Analog.cpp
+  * @author  OtomaDUINO Team
+  * @brief   This file contains analog data input functions.
+  ******************************************************************************
+  * @attention
+  *
+  * Copyright (c) 2022 ML-VPN.
+  * All rights reserved.
+  *
+  * This software is licensed under terms that can be found in the LICENSE file
+  * in the root directory of this software component.
+  * If no LICENSE file comes with this software, it is provided AS-IS.
+  *
+  ******************************************************************************
+  */ 
+
 #include "otd_Analog.h"
 
 #ifdef __cplusplus
